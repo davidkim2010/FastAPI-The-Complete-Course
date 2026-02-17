@@ -8,3 +8,6 @@
 __pycache__/
 .idea
 env
+.venv
+.venv_3.11
+.venv_3.12
